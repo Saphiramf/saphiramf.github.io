@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Assalamualaykum :)
 
-You can use the [editor on GitHub](https://github.com/Saphiramf/saphiramf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Review Game
+## The Sims 2
+The sims 2 merupakan permainan pada komputer dimana pemain dapat membuat cerita yang diinginkan. Pemain dapat mengontrol aktivitas keseharian Sims, seperti menyuruhnya tidur, makan, membaca, atau mandi. The sims 2 merupakan permainan dengan genre life simulation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Permainan the sims 2 memiliki banyak fitur di dalamnya. Pemain dapat membuat rumah sendiri yang diinginkan dengan pilihan barang  yang ber-aneka ragam. 
 
-### Markdown
+Ketika pertama kali pemain masuk kedalam menu utama the sims akan disuguhkan pilihan kota untuk dimainkan. Terdapat 3 kota yang sudah ada. Atau pemain dapat membuat kota sendiri. Ketika pemain sudah masuk kedalam kota terdapat menu membuat sims sendiri atau memakai sims yang sudah ada. Kemudian terdapat menu pilihan rumah yang akan dipakai oleh pemain. Terdapat menu pengaturan untuk mengatur sound, graphic performance, camera options.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ketika pemain sudah masuk kedalam rumahnya terdapat beberapa menu. Menu untuk peralatan rumah, menu untuk membangun rumah, menu kriteria sims, menu pengaturan, menu story board. Selain itu  terdapat fitur waktu pada the sims. Satuan waktu yang terdapat di the sims dapat diatur kecepatannya oleh pemain. 
 
-```markdown
-Syntax highlighted code block
+Ketika pertama kali melihat teaser dari the sims 4 saya kagum. Karena graphic pada permainan tersebut sangat bagus. Visualisasi dan instrumen lebih bagus. Sims menjadi sangat nyata pada the sims 4.  The Sims 4 hadir memiliki karakter sims yang lebih pintar, cerita yang lebih aneh tapi seru, alat membuat rumah sims yang lebih kreatif dan lengkap. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Saphiramf/saphiramf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
